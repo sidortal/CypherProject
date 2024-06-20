@@ -1,6 +1,7 @@
-Here's a revised version of the provided explanation with added emojis, symbols, and professional language:
 
----
+<p align="center">
+  <img src="https://github.com/sidortal/assests/blob/main/shield_animation.gif" width="300" height="200" />
+</p>
 
 ### 🛡️ In-Depth Explanation of Caesar Cipher Functions 🔐
 
@@ -48,10 +49,6 @@ In summary, the code implements a symmetric Caesar cipher encryption and decrypt
 ---
 
 
-
-<p align="center">
-  <img src="https://github.com/sidortal/assests/blob/main/shield_animation.gif" width="300" height="200" />
-</p>
 
 ---
 
