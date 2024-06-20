@@ -35,7 +35,7 @@ In summary, the code implements a symmetric Caesar cipher encryption and decrypt
 ### 🔗 Additional Resources and Links:
 
 📁 **Main Code File (.txt)**  
-[View Code](https://drive.google.com/file/d/1u_ADWKwWVlvPnSfZkwLV57gZZYIxH7IP/view?usp=drive_link)  
+[View Code](https://github.com/sidortal/CypherProject/blob/main/CypherMainCode.txt)  
 
 📖 **What is Cypher? Resources and Article**  
 [Watch Video](https://youtu.be/aOdxWtqibCI)  
