@@ -44,7 +44,7 @@ In summary, the code implements a symmetric Caesar cipher encryption and decrypt
 [Read Article](https://www.techtarget.com/searchsecurity/definition/cipher)  
 
 📄 **Issued LOR by DBATU University**  
-[View LOR](https://drive.google.com/file/d/12C82q3owqMEZls18Najob64HFKpu9dem/view?usp=drive_link)  
+[View LOR](https://github.com/sidortal/CypherProject/blob/main/CybersecurityLOR.pdf)  
 
 ---
 
